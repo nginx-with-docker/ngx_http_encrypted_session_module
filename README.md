@@ -24,8 +24,8 @@ encrypted-session-nginx-module - encrypt and decrypt nginx variable values.
             </ul></td>
         </tr>
         <tr>
-            <td>0.08</td>
-            <td>0.32 (2018.04)</td>
+            <td>1.21.0</td>
+            <td>0.08 (2018.04)</td>
             <td><ul>
                 <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.0-encrypted-session-0.08</li>
                 <li>docker pull soulteary/prebuilt-nginx-modules:ngx-1.21.0-encrypted-session-0.08-alpine</li>
